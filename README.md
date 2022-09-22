@@ -23,7 +23,7 @@ I currently have other projects I've published independent of GitHub, which you 
 
 #
 
-### Featured GitHub Repos
+### 🚀 Featured GitHub Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OFlahertyAndrew&repo=Python-Learning)](https://github.com/OFlahertyAndrew/Python-Learning)
 
 #
