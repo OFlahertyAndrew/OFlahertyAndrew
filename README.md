@@ -3,7 +3,7 @@
 **`Python and Blockchain Developer`**
 
 I'm a Python and Blockchain developer who spends every day trying to satiate my desire to learn. All of my coding projects are built to help educate others through programmatic problem solving.
-I currently have other projects I've published independent of GitHub, which you can view on my portfolio website [here.][website]
+I currently have other projects I've published independent of GitHub, which you can view on my portfolio website [here (Currently Under Construction).][website]
 
 ---
 
@@ -38,7 +38,7 @@ I currently have other projects I've published independent of GitHub, which you 
 
 <details>
  <summary><h3>Andrew's Background</h3></summary>
-   I began programming in Visual Studio 2008 around 11 years old, with my first substantial project being a fully-functioning antivirus that I completed
-   the same year. Since then, I've been hooked.
+   I began programming in Visual Studio 2008 when I was 11, with my first substantial project being fully-functioning antivirus software I completed
+   that same year. Since then, I've been hooked on software development. 
 
 [website]: https://andrews.page
