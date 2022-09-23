@@ -37,6 +37,7 @@ I currently have other projects I've published independent of GitHub, which you 
 #
 
  <h3>🌥 Background</h3>
+ 
    I started my journey at the age of 11 with Visual Basic 2008. The first substantial project I completed was antivirus software that used a database of md5 hashes to scan files in real-time and when prompted to run a system scan. Since then, I've further developed my knowledge through my B.S. in Computer Programming and Information Systems. I've developed software using C++, Java, C#, and most other popular languages. Python, however, has grown to be my language of choice. Python is abundantly powerful, functional within many growing fields within the tech industry, and very beginner friendly. I've spent most of my recent time creating projects with Python, teaching others, and learning as much as possible.
 
 [website]: https://andrews.page
